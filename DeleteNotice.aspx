@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 
-    <div class="container-fluid" style="background-color: #192965; font-family: Verdana, Geneva, Tahoma, sans-serif; height: 800px; margin-top: 20px; font-size: medium;">
+    <div class="container-fluid" style="background-color: #192965; font-family: Verdana, Geneva, Tahoma, sans-serif; height: auto; margin-top: 20px; font-size: medium;">
         <h3 style="color: red"><u>Delete Notice!!!</u></h3>
         <br />
         <div style="margin-left: 100px; margin-right: 100px; margin-top: 10px">
