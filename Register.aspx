@@ -38,7 +38,7 @@
 
 <div class="container-fluid">
    
-    <div class="sign" style=" background-color:#192965; height:850px; width:auto;" ><br /><br /><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>SIGN UP</u><br />&nbsp; <br />
+    <div class="sign" style=" background-color:#192965; height:auto; width:auto;" ><br /><br /><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>SIGN UP</u><br />&nbsp; <br />
 
     <div class="input">
        
