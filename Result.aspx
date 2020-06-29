@@ -6,7 +6,7 @@
  <div class="container-fluid" style="font-family: verdana, Geneva, Tahoma, sans-serif; height:800px; background-color:#192965; margin-top: 20px;font-size: medium; ">
   <div style="margin-left:100px;margin-right:100px">
       <br />
-       <asp:Label ID="lblname" runat="server" Text="Image Name" ForeColor="White"></asp:Label>
+       <asp:Label ID="lblname" runat="server" Text="Result Name" ForeColor="White"></asp:Label>
         <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="*" ForeColor="Red" ControlToValidate="txtname"></asp:RequiredFieldValidator>
       <asp:TextBox ID="txtname" runat="server" CssClass="form-control" Width="100%" Height="30px"></asp:TextBox>
       <br />
