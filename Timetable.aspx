@@ -7,7 +7,7 @@
  <h3 style="color:white;text-align:center">Timetable Structure</h3>
       <div style="margin-left:100px;margin-right:100px">
       <br />
-       <asp:Label ID="lblname" runat="server" Text="Image Name" ForeColor="White"></asp:Label>
+       <asp:Label ID="lblname" runat="server" Text="Timetable Name" ForeColor="White"></asp:Label>
             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="*" ForeColor="Red" ControlToValidate="txtname"></asp:RequiredFieldValidator>
       <asp:TextBox ID="txtname" runat="server" CssClass="form-control" Width="100%" Height="30px"></asp:TextBox>
       <br />
