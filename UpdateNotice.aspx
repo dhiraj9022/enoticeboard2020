@@ -33,7 +33,7 @@
         <div style="text-align: center">
             <asp:Button ID="btnupdatenotice" runat="server" class="btn btn-danger" Text="Update Notice" OnClick="btnupdatenotice_Click" />
             <asp:Button ID="btngoback" runat="server" class="btn btn-danger" Text="GoBack" OnClick="btngoback_Click" />
-        </div>
+        </div><br/><br/>
     </div>
 </asp:Content>
 
