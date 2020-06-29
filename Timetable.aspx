@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
- <div class="container-fluid" style="font-family: verdana, Geneva, Tahoma, sans-serif; height:800px; background-color:#192965; margin-top: 20px;font-size: medium; ">
+ <div class="container-fluid" style="font-family: verdana, Geneva, Tahoma, sans-serif; height:auto; background-color:#192965; margin-top: 20px;font-size: medium; ">
  <h3 style="color:white;text-align:center">Timetable Structure</h3>
       <div style="margin-left:100px;margin-right:100px">
       <br />
@@ -21,7 +21,7 @@
 
       <br />
 
-    </div>
+    </div><br/><br/>
 </div>
 
 </asp:Content>
