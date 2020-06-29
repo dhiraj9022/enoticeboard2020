@@ -40,7 +40,7 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <div class="container-fluid">
-    <div class="sign" style="background-color: #192965;  height: 850px; width:auto"><br /><br /><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>ADMIN SIGN IN</u><br />&nbsp; <br />
+    <div class="sign" style="background-color: #192965;  height: auto; width:auto"><br /><br /><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>ADMIN SIGN IN</u><br />&nbsp; <br />
 
     <div class="input">
         <asp:Label ID="lbl1" runat="server" Text="USERNAME"></asp:Label>
@@ -55,7 +55,7 @@
 
     <div class="signin" style="text-align:center;">
     <asp:Button ID="btnsignin" runat="server" Text="SIGN IN" class="form-control" style="background-color:#F39C12" OnClick="btnsignin_Click" /><br />  
-</div>
+</div><br/><br/>
 </div>
 </asp:Content>
 
